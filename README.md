@@ -114,7 +114,7 @@ decision-intelligence-system/
 ### 1. Clone & Install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Jino-X/decision-intelligence-system.git
 cd decision-intelligence-system
 npm install
 ```
